@@ -4,3 +4,5 @@ With everything I hear about the economy, I was surprised by the amount of blue 
 My initial thought was "I must have made an error", so I double checked my data to make sure I didn't mess something up during data manipulation. That seemed ok. I googled to verify this has been noticed by others, and it has.
 
 For a future analysis, I want to look at the change in the size of the labor forces in the different states. I'm curous about where people might be moving from and moving to.
+
+![Alt text](/https://github.com/bodowd/USUnemploymentChoropleth/blob/master/difference_usa3.svg)
