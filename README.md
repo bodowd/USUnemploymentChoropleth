@@ -5,3 +5,4 @@ My initial thought was "I must have made an error", so I double checked my data 
 
 For a future analysis, I want to look at the change in the size of the labor forces in the different states. I'm curous about where people might be moving from and moving to.
 
+![Map](https://github.com/bodowd/USUnemploymentChoropleth/blob/master/UnemploymentRateDifference_2015_2008.png?raw=true)
